@@ -1,20 +1,9 @@
 # FinTech Homework Assignment 1
-   
-  },
-  {
-   "cell_type": "markdown",
-   "metadata": {},
-   "source": [
-    "# Opendoor"
-   ]
-  },
-  {
-   "cell_type": "markdown",
-   "metadata": {},
-   "source": [
-    "## Overview and Origin\n",
-    "\n",
-    "The company was founded and incorporated in 2013 by co-founders Keith Rabois and Eric Wu. \n",
+# Opendoor
+## Overview and Origin
+ 
+
+The company was founded and incorporated in 2013 by co-founders Keith Rabois and Eric Wu.
     "Eric Wu has a history of working within the real estate market, co-founding [Rent Advisor](www.rentadvisor.com), an apartment finding website. and founding [Movity](www.movity.com), a website that aggregated and analyzed geo-data. These two websites certainly influenced Eric to have very detailed insight into the housing and apartment markets. Eric continues to be on the leadership team as the CEO/co-founder. Eric Wu has also been quoted saying, \"Real estate is part of my DNA\". Eric Wu also graduated from the University of Arizona with a degree in economics. Opendoor's first city was Phoenix, AZ.\n",
     "Keith Rabios does not have quite the real estate background as Eric, however he does have a long history of being at the executive level of many tech companies, such as Square, LinkedIn, and Epoch Innovations. This experience is likely what helped Eric move his company into the forefront of the online real estate world. Keith does not show up on the [Opendoor](www.opendoor.com) website under the leadership team [page](https://www.opendoor.com/w/about).\n",
     "\n",
