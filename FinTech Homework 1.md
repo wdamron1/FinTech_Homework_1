@@ -1,5 +1,4 @@
-
-    "# FinTech Homework Assignment 1"
+# FinTech Homework Assignment 1
    
   },
   {
