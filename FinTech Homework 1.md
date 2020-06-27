@@ -4,10 +4,10 @@
  
 
 The company was founded and incorporated in 2013 by co-founders Keith Rabois and Eric Wu.
-    "Eric Wu has a history of working within the real estate market, co-founding [Rent Advisor](www.rentadvisor.com), an apartment finding website. and founding [Movity](www.movity.com), a website that aggregated and analyzed geo-data. These two websites certainly influenced Eric to have very detailed insight into the housing and apartment markets. Eric continues to be on the leadership team as the CEO/co-founder. Eric Wu has also been quoted saying, \"Real estate is part of my DNA\". Eric Wu also graduated from the University of Arizona with a degree in economics. Opendoor's first city was Phoenix, AZ.\n",
-    "Keith Rabios does not have quite the real estate background as Eric, however he does have a long history of being at the executive level of many tech companies, such as Square, LinkedIn, and Epoch Innovations. This experience is likely what helped Eric move his company into the forefront of the online real estate world. Keith does not show up on the [Opendoor](www.opendoor.com) website under the leadership team [page](https://www.opendoor.com/w/about).\n",
-    "\n",
-    "Opendoor has received a total of 1.5 BILLION in venture funding, as currently on their series E funding type. There have been a total of 63 investors since its founding in 2013. Opendoor has also acquired two companies, OS National and Open Listings.\n",
+"Eric Wu has a history of working within the real estate market, co-founding [Rent Advisor](www.rentadvisor.com), an apartment finding website. and founding [Movity](www.movity.com), a website that aggregated and analyzed geo-data. These two websites certainly influenced Eric to have very detailed insight into the housing and apartment markets. Eric continues to be on the leadership team as the CEO/co-founder. Eric Wu has also been quoted saying, "Real estate is part of my DNA". Eric Wu also graduated from the University of Arizona with a degree in economics. Opendoor's first city was Phoenix, AZ.
+"Keith Rabios does not have quite the real estate background as Eric, however he does have a long history of being at the executive level of many tech companies, such as Square, LinkedIn, and Epoch Innovations. This experience is likely what helped Eric move his company into the forefront of the online real estate world. Keith does not show up on the [Opendoor](www.opendoor.com) website under the leadership team [page](https://www.opendoor.com/w/about).\n",
+   
+"Opendoor has received a total of 1.5 BILLION in venture funding, as currently on their series E funding type. There have been a total of 63 investors since its founding in 2013. Opendoor has also acquired two companies, OS National and Open Listings.\n",
     "\n",
     "![Eric Wu](https://image.cnbcfm.com/api/v1/image/105271442-Webp.net-resizeimage_26.jpg?v=1529478434&w=740&h=416)\n",
     "\n",
