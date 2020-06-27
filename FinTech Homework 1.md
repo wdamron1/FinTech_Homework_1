@@ -1,11 +1,6 @@
-{
- "cells": [
-  {
-   "cell_type": "markdown",
-   "metadata": {},
-   "source": [
+
     "# FinTech Homework Assignment 1"
-   ]
+   
   },
   {
    "cell_type": "markdown",
